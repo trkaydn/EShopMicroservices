@@ -4,5 +4,5 @@ This project is part of the Udemy course [**.NET 8 Microservices: DDD, CQRS, Ver
 
 Here is the [**official repository from the course**](https://github.com/aspnetrun/run-aspnetcore-microservices).
 
-## Key Topics
+## Main Topics
 Develop Microservices on .NET 8 used ASP.NET Web API, Docker, RabbitMQ, MassTransit, gRPC, Yarp Gateway, Redis, SqlServer
